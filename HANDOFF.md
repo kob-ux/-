@@ -8,4 +8,4 @@
 
 当前过滤规则是 3 位大写字母 + 3 位数字；如规则变化，修改 `main.py` 顶部的 `CODE_RE` 并重新打包。
 
-GitHub 仓库：`https://github.com/kob-ux/无畏契约抢码器`。源码位于仓库根目录，便携版 `QiangMa_Portable.zip` 作为 Release 附件发布；`build/`、`dist/` 和本地 exe 不进入 Git 历史。
+GitHub 仓库：`https://github.com/kob-ux/qiangma`。源码位于仓库根目录，便携版 `QiangMa_Portable.zip` 作为 Release 附件发布；`build/`、`dist/` 和本地 exe 不进入 Git 历史。
